@@ -9,5 +9,9 @@
   "degree1":"BSCS",
   "degree2":"ICS",
   "degree3":"HSSC",
-  "degree4":"SSC"
+  "degree4":"SSC",
+  "work1":{"name":"Cyber Security", "Exp":"2yrs"},
+  "work2":{"name":"PCB Designer", "Exp":"1yrs"},
+  "Skill":{"Skill1":"CAD Designing", "Skill2":"PCD Designing", "Skill3":"Electronic Hobbiest", "Skill4":"Chess GM"},
+  "phone":"05021239885"
 }
