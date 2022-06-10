@@ -10,8 +10,11 @@
   "degree2":"ICS",
   "degree3":"HSSC",
   "degree4":"SSC",
-  "work1":{"name":"Cyber Security", "exp":"2yrs"},
-  "work2":{"name":"PCB Designer", "exp":"1yrs"},
-  "skill":{"skill1":"CAD Designing", "skill2":"PCD Designing", "skill3":"Electronic Hobbiest", "skill4":"Chess GM"},
+  "work1":"Cyber Security",
+  "work2":"PCB Designer",
+  "skill1":"CAD Designing", 
+  "skill2":"PCD Designing", 
+  "skill3":"Electronic Hobbiest", 
+  "skill4":"Chess GM",
   "phone":"05021239885"
 }
