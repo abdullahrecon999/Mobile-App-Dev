@@ -6,5 +6,8 @@
   "website":"https://abdullahrecon999.jimdofree.com/",
   "twitter":"https://twitter.com/0xDEADFFFF",
   "current_degree":"BSCS",
-  "degrees":["BSCS", "ICS", "HSSC", "SSC"]
+  "degree1":"BSCS",
+  "degree2":"ICS",
+  "degree3":"HSSC",
+  "degree4":"SSC"
 }
